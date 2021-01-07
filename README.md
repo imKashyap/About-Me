@@ -5,6 +5,6 @@ The AboutMe app showcases interesting facts about yourself with a button, an ima
 ## Screenshots
 
 <p float="left">
-  <img src="screenshot/ss1.png" width="400" alt="Screenshot of the app."/>
-  <img src="/screenshot/ss2.png" width="400" alt="Screenshot of the app."/> 
+  <img src="screenshot/ss1.png" width="600" alt="Screenshot of the app."/>
+  <img src="/screenshot/ss2.png" width="600" alt="Screenshot of the app."/> 
 </p>
